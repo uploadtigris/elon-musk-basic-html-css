@@ -1,0 +1,30 @@
+ #image {
+  max-width:40%;
+  margin: auto;
+  display: block;
+  border-radius: 2%;
+}
+
+ #img-caption
+{
+    width: 400px;
+    margin: auto;
+    font-family: monospace;
+}
+
+#tribute-link 
+{ 
+    width: 100px;
+    margin: auto;
+    text-align: center;
+}
+
+#link-div 
+{
+  text-align: center;
+}
+
+#p-div
+{
+  text-align: center;
+}
